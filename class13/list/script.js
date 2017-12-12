@@ -6,3 +6,4 @@ for ( var n= 0; n<names.length; n++) {
 html = html+'</ul>';
 var name=document.getElementById('name').innerHTML= html;
 
+var colors=['red','green','blue','yellow','salmon','teal']
